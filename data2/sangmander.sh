@@ -4,7 +4,7 @@ echo ""
 echo "     กรุณาใส่รหัสเพื่ออัพเดต "
 echo ""
 read -p "     Password : " sang
-if [ $sang -eq 8866 ]; then
+if [ $sang -eq 1234 ]; then
 echo ""
 read -p "     รหัสถูกต้องยอมให้อัพเดตพิมพ์ y : " pungya
 echo " "
